@@ -1,0 +1,20 @@
+{
+  "name": "projeto-login",
+  "version": "1.0.0",
+  "description": "Este é um projeto de login, criando objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gilberto Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "typescript": "^5.4.3"
+  }
+}
